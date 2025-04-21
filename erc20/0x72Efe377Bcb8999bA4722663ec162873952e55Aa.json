@@ -1,1 +1,25 @@
+{
+  "symbol": "BNBS",
+  "address": "0x72Efe377Bcb8999bA4722663ec162873952e55Aa",
+  "overview":{
+        "en": "We are committed to driving the growth and development of the BNB Chain ecosystem.",
+        "zh": "我们致力于推动BNB链生态系统的增长与发展。"
+  },
+  "email": "BNBS@bnbspark.de",
+  "website": "https://bnbspark.de/",
+  "whitepaper": "https://bnbspark.de",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2025-03-23",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "twitter": "https://x.com/bnbspark5aa",
+    
+    "github": "https://github.com/bnbspark",
+    
+  }
+}
 
